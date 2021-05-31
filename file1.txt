@@ -1,1 +1,3 @@
 "Xin ch…o minh l… hoa " 
+"edit file " 
+"edit in main and check in dthoa" 
